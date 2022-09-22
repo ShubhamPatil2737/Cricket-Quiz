@@ -27,6 +27,15 @@ var questions = [{
 },{
 question : "What is your fav cricketer jersy number ?   ",
 answer  : "7"
+},{
+  question:"Who is called as the god of cricket? ",
+  answer:"sachin tendulkar"
+},{
+ question:"which country invented the game of cricket? ",
+  answer:"england"
+},{
+  question:"which ground is called the home of cricket? ",
+  answer: "lords"
 }]
 
 for(i=0; i<questions.length; i++){
